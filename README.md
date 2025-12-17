@@ -2,13 +2,14 @@
 
 ### 👨‍🎓 **Group Project By:**  
 **K Jeevan Kumar**  
-🎓 **Final Year, Computer Science & Engineering**  
-🏫 **Alva's Institute of Engineering & Technology**  
-🆔 **USN: 4AL22CS067**
+    🎓 **Final Year, Computer Science & Engineering**  
+    🏫 **Alva's Institute of Engineering & Technology**  
+    🆔 **USN: 4AL22CS067**
+
 **K Veeresh**
-🎓 **Final Year, Computer Science & Engineering**  
-🏫 **Alva's Institute of Engineering & Technology**  
-🆔 **USN: 4AL22CS068**
+    🎓 **Final Year, Computer Science & Engineering**  
+    🏫 **Alva's Institute of Engineering & Technology**  
+    🆔 **USN: 4AL22CS068**
 
 ---
 
